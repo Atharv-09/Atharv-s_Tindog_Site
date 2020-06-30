@@ -1,8 +1,13 @@
 
-h1,h2,h3{
+h1{
   font-family: 'Montserrat' , sans-serif;
 }
-
+.feature-head{
+  font-family: 'Montserrat' , sans-serif;
+}
+h3{
+  font-family: 'Pangolin', sans-serif;
+}
 h2{
 font-size: 2.5rem;
 line-height: 1.5;
@@ -129,6 +134,7 @@ right:30%;
 
 }
 .testimonial-text{
+  font-family: 'Montserrat' , sans-serif;
   font-size: 2.5rem;
   line-height: 1.5;
   color: #ddf3f5;
