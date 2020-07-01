@@ -192,6 +192,14 @@ font-family: 'Sacramento', cursive;
   font-family: Bradley Hand,cursive,sans-serif;
 }
 
+@media (max-width : 1028px) {
+.price-name{
+  font-family: sans-serif;
+}
+.price-head{
+  font-family: serif;
+}
+}
 
 #cta{
   text-align: center;
