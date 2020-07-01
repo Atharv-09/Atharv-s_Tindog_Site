@@ -25,6 +25,12 @@ p{
   color: #8f8f8f;
 }
 
+@media (max-width : 1028px) {
+p{
+  font-size: 1rem;
+}
+}
+
 /*Heading*/
 .large-head{
   font-size: 3.5rem;
@@ -183,7 +189,7 @@ padding-bottom: 44px;
 font-family: 'Sacramento', cursive;
 }
 .price-name{
-  font-family: Bradley Hand, cursive;
+  font-family: Bradley Hand,cursive,sans-serif;
 }
 
 
